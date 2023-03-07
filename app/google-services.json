@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "455245527820",
+    "project_id": "mandoob-53f9f",
+    "storage_bucket": "mandoob-53f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455245527820:android:24ad8ffc8b0563d7ea2729",
+        "android_client_info": {
+          "package_name": "com.example.mondoob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455245527820-rqlvmscplfuevpcu0oipfe8acq3sjh1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mondoob",
+            "certificate_hash": "52b51145a9829fcfd35841fff2bf8b6c342a9119"
+          }
+        },
+        {
+          "client_id": "455245527820-impk7qo1tcat5hf3vtl2hra3fp51ftkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnCKg204CljzmlH9gdQiqfWrKiqllPlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455245527820-impk7qo1tcat5hf3vtl2hra3fp51ftkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
