@@ -18,7 +18,7 @@
         </intent>
     </queries>
     <application
-            android:label="Field IQ"
+        android:label="MyField-IQ"
             android:icon="@mipmap/launcher_icon"
             android:name="${applicationName}">
         <activity
